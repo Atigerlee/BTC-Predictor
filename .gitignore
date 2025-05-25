@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# enc
+.conda/
+.env
+venv/
+env/
+
+# model
+*.pkl
+*.joblib
+
+# data
+*.csv
+*.xlsx
+*.xls
+
+# chart
+*.png
+*.jpg
+*.jpeg
+
+# IDE
+.vscode/
+.idea/
+
+# system
+.DS_Store
+Thumbs.db 
