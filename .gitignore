@@ -18,11 +18,6 @@ env/
 *.xlsx
 *.xls
 
-# chart
-*.png
-*.jpg
-*.jpeg
-
 # IDE
 .vscode/
 .idea/
